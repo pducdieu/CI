@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Continous Integration\CI\bin\Debug\net8.0\CI.exe
+C:\Users\Admin\Desktop\Continous Integration\CI\bin\Debug\net8.0\CI.deps.json
+C:\Users\Admin\Desktop\Continous Integration\CI\bin\Debug\net8.0\CI.runtimeconfig.json
+C:\Users\Admin\Desktop\Continous Integration\CI\bin\Debug\net8.0\CI.dll
+C:\Users\Admin\Desktop\Continous Integration\CI\bin\Debug\net8.0\CI.pdb
+C:\Users\Admin\Desktop\Continous Integration\CI\obj\Debug\net8.0\CI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Continous Integration\CI\obj\Debug\net8.0\CI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Continous Integration\CI\obj\Debug\net8.0\CI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Continous Integration\CI\obj\Debug\net8.0\CI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Continous Integration\CI\obj\Debug\net8.0\CI.dll
+C:\Users\Admin\Desktop\Continous Integration\CI\obj\Debug\net8.0\refint\CI.dll
+C:\Users\Admin\Desktop\Continous Integration\CI\obj\Debug\net8.0\CI.pdb
+C:\Users\Admin\Desktop\Continous Integration\CI\obj\Debug\net8.0\CI.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Continous Integration\CI\obj\Debug\net8.0\ref\CI.dll
