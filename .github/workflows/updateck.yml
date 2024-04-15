@@ -29,5 +29,5 @@ jobs:
     - name: abc
       run: dotnet restore
     - name: runproj
-      run: dotnet run --project CI/CI.csproj
+      run: ls; dotnet run --project CI/CI.csproj
   
